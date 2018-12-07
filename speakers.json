@@ -1,0 +1,31 @@
+{
+    "speakers": [
+        {
+            "Speakerid":"1",
+            "SpeakerName":"John",
+            "EventDay":"Day1",
+            "EventTime":"9:30-10",
+            "Description":"He is a prominent pesonality from iit",
+            "EventName":"Welcome Event",
+            "SpeakerPhoto":"s3Url"
+        },
+        {
+            "Speakerid":"2",
+            "SpeakerName":"Noah",
+            "EventDay":"Day2",
+            "EventTime":"9:30-10",
+            "Description":"He is a prominent pesonality from iit",
+            "EventName":"Welcome Event",
+            "SpeakerPhoto":"s3Url"
+        },
+        {
+            "Speakerid":"1",
+            "SpeakerName":"Peter",
+            "EventDay":"Day3",
+            "EventTime":"9:30-10",
+            "Description":"He is a prominent pesonality from iit",
+            "EventName":"Welcome Event",
+            "SpeakerPhoto":"s3Url"
+        }
+    ]
+}
